@@ -12,6 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaykarippacheriljacob&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykarippacheriljacob&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaykarippacheriljacob&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
